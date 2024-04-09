@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning different thing and technologies for developming on Java
+
 <!--
 **Kolotushka1/Kolotushka1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
