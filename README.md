@@ -13,9 +13,9 @@
 <p>
   <b>About me:</b>
   <ul>
-    <li>❤️ Java</li>
+    <li>❤️ Backend</li>
     <li>🆒 I am interested in designing application architecture and developing corporate applications</li>
-    <li>📖 I'm studying Vue.js right now</li>
+    <li>📖 I'm studying Vue.js and Golang right now</li>
     <li>💬 and of course I am considering job offers 😉</li>
   </ul>
 </p>
