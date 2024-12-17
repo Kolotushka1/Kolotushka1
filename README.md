@@ -15,7 +15,7 @@
   <ul>
     <li>❤️ Backend</li>
     <li>🆒 I am interested in designing application architecture and developing corporate applications</li>
-    <li>📖 I'm studying Vue.js and Golang right now</li>
+    <li>📖 I am currently studying Vue.js and Golang. In addition, I began to study and immerse myself in the architecture of microservices</li>
     <li>💬 And of course I am considering job offers 😉</li>
   </ul>
 </p>
