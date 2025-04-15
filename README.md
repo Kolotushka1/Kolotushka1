@@ -15,13 +15,13 @@
   <ul>
     <li>❤️ Backend</li>
     <li>🆒 I am interested in designing application architecture and developing corporate applications</li>
-    <li>📖 I am currently studying Vue.js and Golang. In addition, I began to study and immerse myself in the architecture of microservices</li>
-    <li>💬 And of course I am considering job offers 😉</li>
+    <li>📖 I am currently studying frontend technologies and Golang/li>
+    <li>📖 I'm continuing to improve my Java skills and doing my project</li>
   </ul>
 </p>
 <hr>
 <h3>Skills</h3><br>
-<img width="125%" src="https://skillicons.dev/icons?i=java,spring,hibernate,go,php,laravel,mysql,docker,linux,bootstrap,vue">
+<img width="125%" src="https://skillicons.dev/icons?i=java,spring,hibernate,php,laravel,mysql,docker,linux,bootstrap,vue">
 <hr>
 <h3>Links</h3><br>
 <span>
